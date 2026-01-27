@@ -21,4 +21,4 @@ We can check if the model guessed correctly by comparing what it predicted to th
 We can add more layers, use more neurons, or train for more epochs. We could also try different settings or add more variety to the training data to help it learn better.
 
 
-# ** 🔗GOOGLE COLAB: https://colab.research.google.com/drive/1mtMoeeN9ebsz-0Mb069-PfuwBjWXNI9S?usp=sharing**
+**🔗GOOGLE COLAB: https://colab.research.google.com/drive/1mtMoeeN9ebsz-0Mb069-PfuwBjWXNI9S?usp=sharing**
