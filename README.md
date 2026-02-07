@@ -15,7 +15,7 @@ We divide the pixel values by 255 to make them smaller (between 0 and 1). This m
 One epoch means the model looks at all the training images once. If we use 10 epochs, it goes through all the images 10 times to learn better.
 
 ### **5. Compare the predicted label and actual label for the first test image.**
-We can check if the model guessed correctly by comparing what it predicted to the real answer. The code shows both values so we can see if they match or not.
+I compare the predicted label with the actual label of the first test image to determine whether the model classified the image correctly. If both labels are the same, the prediction is correct; otherwise, it is incorrect.
 
 ### **6. What could be done to improve the model's accuracy?**
 We can add more layers, use more neurons, or train for more epochs. We could also try different settings or add more variety to the training data to help it learn better.
